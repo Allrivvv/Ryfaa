@@ -1,0 +1,11 @@
+angka = int("30")
+desimal = float("3.14")
+teks = str(angka)
+status = bool(1)
+
+print(angka)
+print(type(desimal))
+print(f"Umur: {angka}")
+print(bool(0), bool(1))
+print(teks)
+print(status)
